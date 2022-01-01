@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
-</p>
+</p> hehe
 <h1 align="center">
   <b>Ultroid - UserBot</b>
 </h1>
