@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> h
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
 </p> hehe
 <h1 align="center">
